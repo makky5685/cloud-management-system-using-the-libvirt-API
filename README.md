@@ -13,5 +13,5 @@ The system was made in two phases
 
 
 	Phase 2:
-		- A new feature was added to the management system which enabled the autoscaler to monitor the Load on virtual machines and automatically shut down Virtual machines when required.
-		- Again, the libvirt API was used to monitor the load.
+		- A new feature was added to the management system which enabled the autoscaler to monitor any dead Virtual machines.
+		- This abrupt virutal machine failure was simulated manually be the tester by shutting down one of the virutal machines at random.
