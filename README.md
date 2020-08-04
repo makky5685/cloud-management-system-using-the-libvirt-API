@@ -8,7 +8,7 @@ The system was made in two phases
 		- A simple load generator was made which was responsible for distributing load evenly on the existing Virutal machines(Load could be dynamically changed by the tester).
 		- An autoscaler was made which was responsible for monitoring load and starting the Virutal machines as the load increased.
 		- The virtual machines were equipped with Ubuntu server OS and were started automatically by the autoscaler when required.
-		- The virtual machines were instances were created beforehand and installed with ComplexHTTPServer for load reception. 
+		- The virtual machines instances were created beforehand and installed with ComplexHTTPServer for load reception. 
 		- All modules were written with python and libvirt API supported by python.
 
 
