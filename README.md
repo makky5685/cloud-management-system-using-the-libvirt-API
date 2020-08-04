@@ -1,6 +1,6 @@
 cloud-management-system-using-the-libvirt-API
 
-This is a Virtual Machine management project intended to automate the process of the spawning/shutting down a virtual machine when necessary conditions are met
+This is a Virtual Machine management project intended to automate the process of the spawning of Virutal machines and failure detection.
 
 The system was made in two phases
 	
