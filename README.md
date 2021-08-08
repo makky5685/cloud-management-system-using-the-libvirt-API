@@ -1,6 +1,6 @@
 cloud-management-system-using-the-libvirt-API
 
-This is a Virtual Machine management project intended to automate the process of the spawning of Virutal machines and failure detection.
+This is a Virtual Machine management project made as part of CS695, intended to automate the process of the spawning of Virutal machines and failure detection.
 
 The system was made in two phases
 	
